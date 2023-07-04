@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlashLightAppX</string>
+    <string name="turnon">Turn on</string>
+    <string name="mainimage">Main Image</string>
+    <string name="mainbtn">mainbtn</string>
+    <string name="turnoff">turn off</string>
+</resources>
